@@ -1,0 +1,19 @@
+h1{
+  font-style: auto
+}
+Div{
+  width: 500;
+  margin: auto;
+}
+
+blockquote{
+  border-style: solid;
+  border-color: ffffff;
+  text-align:center;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+body{
+  background-color: cccccc;
+}
